@@ -3819,6 +3819,13 @@ p.lead {
   font-size: 17px;
   line-height: 1.8em;
 }
+
+a.lead {
+  font-size: 17px;
+  line-height: 1.8em;
+  color: #FFF;
+}
+
 a {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
